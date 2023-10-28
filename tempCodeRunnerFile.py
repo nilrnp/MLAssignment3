@@ -1,0 +1,1 @@
+ params = [c_value, degree_value, kernel_value, shape]
